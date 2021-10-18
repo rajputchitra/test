@@ -4,4 +4,6 @@ learnt basics of html
          title tag 
           body tag 
           heading tag  -6 types 
+
+     list tags 
              
