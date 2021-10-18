@@ -1,0 +1,7 @@
+learnt basics of html 
+
+    -  head tag 
+         title tag 
+          body tag 
+          heading tag  -6 types 
+             
